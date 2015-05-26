@@ -1,4 +1,4 @@
-# Normalization Rules
+# LibGuide Specific Normalization Rules
 
 ---
 
